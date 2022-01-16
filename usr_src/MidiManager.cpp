@@ -250,7 +250,7 @@ HANDLE WINAPI OpenDevice(PMIDI_INFO MidiInfo)
         ResetDevice(MidiInfo->hFile);
         GetConfigDescriptor(MidiInfo->hFile);
         ResetPipe(MidiInfo->hFilePipe02);
-        
+
         CloseHandle(MidiInfo->hFile);
         MidiInfo->hFile = INVALID_HANDLE_VALUE;
         result = MidiInfo->hFilePipe02;
@@ -282,7 +282,7 @@ LSTATUS WINAPI FindDriverPach(CHAR* DrvPach)
     {
         return status;
     }
-    if (RegQueryInfoKeyA(phkResult, 0, 0, 0, &cSubKeys, &cbMaxSubKeyLen, 0, &cValues, &cbMaxValueNameLen, &cbMaxValueLen, 0, 0))
+    if (RegQueryInfoKeyA(phkResult, NULL, NULL, NULL, &cSubKeys, &cbMaxSubKeyLen, NULL, &cValues, &cbMaxValueNameLen, &cbMaxValueLen, NULL, NULL))
     {
         return RegCloseKey(phkResult);
     }

@@ -25,8 +25,8 @@
     to do this, click the AbautProgram button.
 **********************************************************************************/
 
-#ifndef PCH_H
-#define PCH_H
+#ifndef _MIDI_MANAGER_
+#define _MIDI_MANAGER_
 
 #define WIN32_LEAN_AND_MEAN            
 
@@ -117,4 +117,4 @@ DWORD MidiStart(DWORD_PTR dwParam1);
 DWORD MidiStop();
 DWORD MidiReset();
 
-#endif //PCH_H
+#endif //_MIDI_MANAGER_
