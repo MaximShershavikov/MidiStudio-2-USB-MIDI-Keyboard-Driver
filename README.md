@@ -54,9 +54,9 @@
 
 5 The computer will restart and the driver without a digital subscription will install and work
 ### Driver installation instructions
-1 Download rar file *MidiStudio-2 driver Win 10 Win 11 x64.rar* with driver
+1 Download rar file *MidiStudio-2 driver Win 10 Win 11 x64.zip* with driver
 
-2 Unpack the rar file *MidiStudio-2 driver Win 10 Win 11 x64.rar* with driver in folder
+2 Unpack the rar file *MidiStudio-2 driver Win 10 Win 11 x64.zip* with driver in folder
 
 3 Connect keyboard to usb port
 
