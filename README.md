@@ -3,7 +3,7 @@
 ### MidiStudio 2 is an old device, manufacturing "MidiTech GmbH", now running on Windows 11 x64 and Windows 10 x64
 
 ### This driver has no digital signature. For normal driver installation and driver work, you need to disable driver signature enforcement.
-#### How to do it in Windows 10:
+#### How to Disable driver signature enforcement in Windows 10:
 1 Click the *Start* menu and select *Settings*
 
 2 Click *Updating & Security*
@@ -21,7 +21,7 @@
 8 On the Startup Settings screen press 7 or F7 to set "*Disable driver signature enforcement*"
 
 9 The computer will restart and the driver without a digital subscription will install and work 
-#### How to do it in Windows 11:
+#### How to Disable driver signature enforcement in Windows 11:
 
 1 Click the *Start* menu and select *Settings*
 
@@ -42,7 +42,7 @@
 9 On the Startup Settings screen press 7 or F7 to set "*Disable driver signature enforcement*"
 
 10 The computer will restart and the driver without a digital subscription will install and work
-#### How to do it in Windows 11 and Windows 10: 
+#### How to Disable driver signature enforcement in Windows 11 and Windows 10: 
 
 1 Press and hold the *Shift* key on your keyboard and click the *Restart button*
 
@@ -53,4 +53,27 @@
 4 Press F7 on your keyboard to select *Disable driver signature enforcement*
 
 5 The computer will restart and the driver without a digital subscription will install and work
+### Driver installation instructions
+1 Download rar file *MidiStudio-2 driver Win 10 Win 11 x64.rar* with driver
 
+2 Unpack the rar file *MidiStudio-2 driver Win 10 Win 11 x64.rar* with driver in folder
+
+3 Connect keyboard to usb port
+
+4 Press *Windows key + X* or use *search* and enter *Device Manager*
+
+5 Click *Device Manager*
+
+6 Find sections *Other devices*
+
+7 Right click on *Unknown device* and select *Update Driver Software…*
+
+8 Select *Browse my computer for driver software*
+
+9 Select *Let me pick from a list of device drivers on my computer*
+
+10 Click *Have Disk…* button
+
+11 Click *Browse… button.* Navigate to the folder where you unpacked the driver files and browse the **MidiStudio2.inf** driver file
+
+12 Click *OK* button then *Next* button to finish the installation. You might be asked for an admin password or to confirm your choice
