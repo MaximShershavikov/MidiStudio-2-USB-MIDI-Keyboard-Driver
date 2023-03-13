@@ -77,3 +77,5 @@
 11 Click *Browse… button.* Navigate to the folder where you unpacked the driver files and browse the **MidiStudio2.inf** driver file
 
 12 Click *OK* button then *Next* button to finish the installation. You might be asked for an admin password or to confirm your choice
+
+#### If modulation and pitch band rollers work upside down, use the "MidiStudio_2_reverse_rolle_driver_Win10_Win11_x64.zip" driver
