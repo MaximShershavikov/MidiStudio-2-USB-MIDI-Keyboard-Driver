@@ -1,28 +1,28 @@
 ﻿/**********************************************************************************
-	MidiStudio-2 Driver for Windows-10 x64 and Windows-11 x64. Version 1.0.
-	Driver for USB MIDI-keyboard MidiStudio-2. The driver is designed for
-	Windows-10 x64 and Windows-11 x64
+    MidiStudio-2 Driver for Windows-10 x64 and Windows-11 x64. Version 1.0.
+    Driver for USB MIDI-keyboard MidiStudio-2. The driver is designed for
+    Windows-10 x64 and Windows-11 x64
 
     Copyright (C) 2022  Maxim Shershavikov
 
-	This file is part of MidiStudio-2 Driver.
+    This file is part of MidiStudio-2 Driver.
 
-	MidiStudio-2 Driver is free software: you can redistribute it and/or modify
-	it under the terms of the GNU General Public License as published by
-	the Free Software Foundation, either version 3 of the License, or
-	(at your option) any later version.
+    MidiStudio-2 Driver is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-	MidiStudio-2 Driver is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	GNU General Public License for more details.
+    MidiStudio-2 Driver is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-	You should have received a copy of the GNU General Public License
-	along with this program.  If not, see <https://www.gnu.org/licenses/>.
-	Email m.shershavikov@yandex.ru
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    Email m.shershavikov@yandex.ru
 
-	To read a copy of the GNU General Public License in a file COPYING.txt,
-	to do this, click the AbautProgram button.
+    To read a copy of the GNU General Public License in a file COPYING.txt,
+    to do this, click the AbautProgram button.
 **********************************************************************************/
 
 #ifndef _MIDI_MANAGER_
